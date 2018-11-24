@@ -8,3 +8,8 @@ Original Creation Date: 20th Nov 2017
 
 
 <img src="assets/on_start.PNG" width="100%" />
+<img src="assets/angle_170.PNG" width="100%" />
+<img src="assets/heart.PNG" width="100%" />
+<img src="assets/sin_func.PNG" width="100%" />
+<img src="assets/tan_func.PNG" width="100%" />
+
