@@ -7,4 +7,4 @@ This is one of the first C# applications I created. I made it because I was inte
 Original Creation Date: 20th Nov 2017
 
 
-<img src="assets/on_start.png" width="100%" />
+<img src="assets/on_start.PNG" width="100%" />
