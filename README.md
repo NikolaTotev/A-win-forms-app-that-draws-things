@@ -8,12 +8,16 @@ Original Creation Date: 20th Nov 2017
 
 - Default drawing. 
 <img src="assets/on_start.PNG" width="100%" />
+
 - Drawing when the angle is set to 170.
 <img src="assets/angle_170.PNG" width="100%" />
+
 - Drawing a heart using a hardcoded function.
 <img src="assets/heart.PNG" width="100%" />
+
 - Drawing sin func.
 <img src="assets/sin_func.PNG" width="100%" />
+
 - Drawing tan func.
 <img src="assets/tan_func.PNG" width="100%" />
 
